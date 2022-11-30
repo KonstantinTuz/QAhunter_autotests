@@ -1,0 +1,1 @@
+# QAhunter_autotests
